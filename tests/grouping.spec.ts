@@ -7,12 +7,12 @@ test.describe('Group_1', async ()=>{
      console.log('Test 1');
     }); 
 
-     test('test 2', async ({ page })=>{
+     test('test 5', async ({ page })=>{
  
-     console.log('Test 2');
+     console.log('Test 5');
     }); 
      
-    
+
 }); 
 
 test.describe('Group 2', async ()=>{
